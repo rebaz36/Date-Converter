@@ -1,0 +1,25 @@
+{
+  "name": "date-converter",
+  "version": "1.0.0",
+  "description": "An npm package that converts different kind of date such as georgian, to Kurdish more calender supports will be provided...",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebaz36/Date-Converter.git"
+  },
+  "keywords": [
+    "Calender",
+    "Converter",
+    "Kurdish",
+    "Georgian"
+  ],
+  "author": "Rebaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rebaz36/Date-Converter/issues"
+  },
+  "homepage": "https://github.com/rebaz36/Date-Converter#readme"
+}
